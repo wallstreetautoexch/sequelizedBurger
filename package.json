@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burger pkg json",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.7",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallstreetautoexch/burger.git"
+  },
+  "author": "jbruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallstreetautoexch/burger/issues"
+  },
+  "homepage": "https://github.com/wallstreetautoexch/burger#readme"
+}
