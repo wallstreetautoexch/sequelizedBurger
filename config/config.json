@@ -1,0 +1,26 @@
+{
+  "development": {
+    "dialect": "mysql",
+    "host": "localhost",
+    "username": "root",
+    "password": "root",
+    "database": "seqburger_db",
+    "port": "3306"
+  }, 
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "chirps_db_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "chirps_db_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+
+
